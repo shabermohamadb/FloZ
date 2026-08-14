@@ -1,37 +1,22 @@
 [
-	{
-		"id": "edan",
-		"name": "Edan Kwan",
-		"role": "Cofounder &<br> Creative Director"
-	},
-	{
-		"id": "ffi",
-		"name": "Ffion Morgan",
-		"role": "Cofounder &<br> Head of Operation"
-	},
-	{
-		"id": "pierre",
-		"name": "Pierre Nottin",
-		"role": "Creative Developer"
-	},
-	{
-		"id": "yannic",
-		"name": "Yannic Laurenz",
-		"role": "Creative Developer"
-	},
-	{
-		"id": "paul",
-		"name": "Paul Catoera",
-		"role": "3D Motion Designer"
-	},
-	{
-		"id": "andrii",
-		"name": "Andrii Ovsiannikov",
-		"role": "Art Director"
-	},
-	{
-		"id": "sunny",
-		"name": "Sunny",
-		"role": "Executive Purr-ducer"
-	}
+  {
+    "id": "naveen",
+    "name": "Naveen M",
+    "role": "Developer"
+  },
+  {
+    "id": "shaber",
+    "name": "Shaber Mohammad",
+    "role": "Developer"
+  },
+  {
+    "id": "jagadeesh",
+    "name": "Jagadeesh",
+    "role": "Developer"
+  },
+  {
+    "id": "mujahith",
+    "name": "Mujahith",
+    "role": "Developer"
+  }
 ]
